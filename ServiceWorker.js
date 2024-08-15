@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Projet de Soutance_WebGL-0.1";
 const contentToCache = [
-    "Build/WebGL Builds.loader.js",
-    "Build/WebGL Builds.framework.js.gz",
-    "Build/WebGL Builds.data.gz",
-    "Build/WebGL Builds.wasm.gz",
+    "Build/Soutenance_WebGL_Build.loader.js",
+    "Build/Soutenance_WebGL_Build.framework.js.gz",
+    "Build/Soutenance_WebGL_Build.data.gz",
+    "Build/Soutenance_WebGL_Build.wasm.gz",
     "TemplateData/style.css"
 
 ];
